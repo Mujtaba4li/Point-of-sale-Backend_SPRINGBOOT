@@ -96,13 +96,18 @@
             <artifactId>jakarta.xml.bind-api</artifactId>
             <version>2.3.3</version>
         </dependency>
+<!--        <dependency>-->
+<!--            <groupId>javax.persistence</groupId>-->
+<!--            <artifactId>javax.persistence-api</artifactId>-->
+<!--            <version>2.2.3</version>-->
+<!--        </dependency>-->
+<!--        &lt;!&ndash;        my dependency for validation I taken from stakeoverflow&ndash;&gt;-->
+        <!-- https://mvnrepository.com/artifact/javax.persistence/javax.persistence-api -->
         <dependency>
             <groupId>javax.persistence</groupId>
             <artifactId>javax.persistence-api</artifactId>
-            <version>2.2.3</version>
+            <version>2.2</version>
         </dependency>
-        <!--        my dependency for validation I taken from stakeoverflow-->
-
 
     </dependencies>
 
